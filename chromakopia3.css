@@ -8,8 +8,8 @@
 }
 
 .theme-light .scroller_fea3ef, .theme-light .contentRegionScroller_c25c6d, .theme-light .homeContainer_e85cee, .theme-light .repoScroller_9JnAPs, .theme-light .container-3wLKDe, .theme-light .scrollerContainer_c6b11b, .theme-light .container_c2efea, .theme-light .chat_a7d72e.background_e85cee, .theme-light .container_a6d69a, .theme-light .content_cac32e {
-	background: linear-gradient(to top, transparent 0%, hsla(45, calc(var(--saturation-factor, 1) * 4.8%), 83.5%, 0.54) 100%) !important;
-	background-color: hsla(40, calc(var(--saturation-factor, 1) * 5.7%), 89.6%, 0.54) !important;
+	background: linear-gradient(to top, transparent 1%, hsla(45, calc(var(--saturation-factor, 1) * 1%), 1%, 0.1) 10%) !important;
+	background-color: hsla(1, calc(var(--saturation-factor, 0) * 1%), 1%, 0.1) !important;
 	/*main background - light mode*/
 }
 .scroller_fea3ef, .theme-light .wrapper_fea3ef.guilds_a4d4d9.theme-dark .scroller_fea3ef, .contentRegionScroller_c25c6d, .homeContainer_e85cee, .repoScroller_9JnAPs, .container-3wLKDe, .scrollerContainer_c6b11b, .container_c2efea, .chat_a7d72e.background_e85ceeI, .container_a6d69a, .content_cac32e {
